@@ -15,9 +15,7 @@ $(document).ready(function() {
 	}); 
 	
 	$('.button-class').click(function() {
-		$('.div-class').animate({
-			height: '-=10px'
-		}); 
+		$('.div-class').hide();
 	});
 	
 });
