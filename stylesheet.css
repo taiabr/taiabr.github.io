@@ -1,0 +1,45 @@
+body {
+    background-image: url("https://wallpaperbrowse.com/media/images/518164-backgrounds.jpg");
+}
+
+.div-class {
+    height:100px;
+    width:100px;
+    display: inline-block;
+}
+
+.button-class {
+	height:100px;
+    width:100px;
+	text-align: center;
+    display: inline-block;
+	background-color: yellow;
+	color: black;
+	float: left;	
+}
+
+#help-button {
+	height:150px;
+    width:150px;
+	text-align: center;
+    display: inline;
+	background-color: black;
+	color: white;
+	/* float: left;	 */
+}
+
+#red {
+    background-color:#FF0000;
+}
+
+#blue {
+    background-color:#0000FF;
+}
+
+#yellow {
+    background-color:#E2BE22;
+}
+
+#green {
+    background-color:#008800;
+}
