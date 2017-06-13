@@ -14,7 +14,7 @@ $(document).ready(function() {
 		$(this).toggle(1000);
 	}); 
 	
-	$('.button-class').mouseenter(function() {
+	$('.button-class').click(function() {
 		$('.div-class').animate({
 			height: '-=10px'
 		}); 
